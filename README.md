@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rackhael
 - 👀 I’m interested in disruptive technologies and building impactful business solutions using the blockchain technology stack. 
-- 🌱 I’m currently learning on-chain data anlytics and web3 development.
+- 🌱 I’m currently learning on-chain data anlytics and web3 development. Mastering Solidity, Python, Javascript & SQL
 - 💞️ I’m looking to collaborate on Blockchain data analytics projects.
 - 📫 How to reach me rchl.aber@gmail.com
 
