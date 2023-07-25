@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rackhael
-- 👀 I’m interested in disruptive technologies and building impactful business solutions using the blockchain technology stack. 
-- 🌱 I’m currently learning on-chain data anlytics and web3 development. Mastering SQL, Python, R, Solidity & Javascript.
-- 💞️ I’m looking to collaborate on Blockchain data analytics projects to help builders track their on-demand growth metrics.
-- 📫 How to reach me rchl.aber@gmail.com
+- 👀 I’m an onchain Data Analyst interested in disruptive technologies and building impactful business solutions using the blockchain technology stack. 
+- 🌱 I’m currently Mastering SQL & Python alongside learning web3 development with Solidity & Javascript.
+- 💞️ I’m looking to collaborate on Blockchain data analytics projects to help builders track their growth metrics.
+- 📫 How to reach me rackhale.data@gmail.com
 
 <!---
 rackhael/rackhael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
